@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 응애
+title: 🚽=변기
 date: 2021-03-10 00:00:00 +0300
 description: 웹사이트 만듦 # Add post description (optional)
 img:  # Add image post (optional)
@@ -15,4 +15,4 @@ tags: [Diary]
 개그, 연구, 활동, 일기 쓸거임
 내 마음대로 운영할거고 이상한거 올라올수도 있다.
 
-## TOILET=변기
+## 🚽=TOILET
