@@ -774,8 +774,8 @@ html {
 
 body {
   font-family: 'Lato', sans-serif;
-  color: #515151;
-  background-color: #fbfbfb;
+  color: #717171;
+  background-color: #474747;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -933,7 +933,7 @@ table tfoot td {
   width: 240px;
   height: 100%;
   padding: 20px 10px;
-  background-color: #ffffff;
+  background-color: #d3d3d3;
 }
 
 .about {
@@ -1129,11 +1129,11 @@ footer .copyright {
 }
 
 .post:hover {
-  -webkit-transform: translate(0px, -2px);
-      -ms-transform: translate(0px, -2px);
-          transform: translate(0px, -2px);
-  -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
-          box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+  -webkit-transform: translate(0px, -10px);
+      -ms-transform: translate(0px, -10px);
+          transform: translate(0px, -10px);
+  -webkit-box-shadow: 0 15px 45px -10px rgb(175 18 255 / 60%);
+          box-shadow: 0 7px 25px 5px rgb(177 92 254 / 83%);
 }
 
 .post .post-thumbnail {
@@ -1157,15 +1157,17 @@ footer .copyright {
 
 .post .post-content .post-title {
   margin: 0 0 10px;
-  font-size: 30px;
+  font-size: 35px;
   font-weight: 400;
 }
 
 .post .post-content .post-title a {
   font-family: 'PT Serif', serif;
   text-decoration: none;
-  color: #263959;
+  color: #000000;
 }
+
+
 
 .post .post-content p {
   margin-top: 0;
