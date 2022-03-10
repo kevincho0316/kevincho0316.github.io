@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 응애
-date: 2022-03-10 15:47:00 +0300
-description: 블로그(?) 만들었다. # Add post description (optional)
+date: 2021-03-10 00:00:00 +0300
+description: 웹사이트 만듦 # Add post description (optional)
 img:  # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Diary]

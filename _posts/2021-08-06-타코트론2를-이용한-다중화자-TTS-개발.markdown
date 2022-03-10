@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 타코트론2를 이용한 다중화자 tts 인공지능 개발
-date: 2020-08-06 00:00:00 +0300
+date: 2021-08-06 00:00:00 +0300
 description: 프로젝트를 진행하며 저는 발음기관을 모방에대한 연구와 함께 이런프로그램을 자동화 그리고 개인화 하고자 했습니다. # Add post description (optional)
 img: /tts/tts-logo.png # Add image post (optional)
 fig-caption: logo # Add figcaption (optional)
