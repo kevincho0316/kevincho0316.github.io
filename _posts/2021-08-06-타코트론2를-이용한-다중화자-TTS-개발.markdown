@@ -13,7 +13,7 @@ tags: [AI, TTS]
 발음기관 모방 프로젝트로 궁극적으로 사람을 모방하고자 하는 의도를 가진 프로젝트입니다.
 사람을 모방함으로서 여러 근본적인 궁금증과 인류사의 진화등을 연구할수있을것으로 예상됩니다.
 
-!image[logo](({{site.baseurl}}/assets/img/tts/logo.png))
+![logo](({{site.baseurl}}/assets/img/tts-logo.png))
 
 > **발음을 자동화 하다...**
 
@@ -28,23 +28,23 @@ tags: [AI, TTS]
 
 ##첫번째 문제인 전대통령
 
-![moon](({{site.baseurl}}/assets/img/tts/mooon2.png))
+![moon](({{site.baseurl}}/assets/img/tts-mooon2.png))
 데이터는 11hr 50min 의 9,285개의 음성파일
 오디오 샘플      
 
 >
 >이 세상에서 에르디아인을 한 마리도 남김없이 없애는 것,
 그것이 전 인류의 소원이라고.
->!audio[moon1]({{site.baseurl}}/assets/audio/tts/moon1.wav)
+>![moon1]({{site.baseurl}}/assets/audio/tts/moon1.wav)
 
 >
 >아 짜장면 먹고 싶어요
 
-!audio[ moon2 ]({{site.baseurl}}/assets/audio/tts/moon2.wav)
+![ moon2 ]({{site.baseurl}}/assets/audio/tts/moon2.wav)
 
 >
 >조선의 궁궐에 당도한 것을 환영하오 낯선이여,
 나는 나의 훌륭한 백성들을 굽어살피는 깨우친 세종이오
 
 
-!audio[ moon3 ]({{site.baseurl}}/assets/audio/tts/moon3.wav)
+![ moon3 ]({{site.baseurl}}/assets/audio/tts/moon3.wav)
