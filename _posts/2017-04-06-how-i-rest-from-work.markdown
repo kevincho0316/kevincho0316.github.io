@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🚽=변기
+title: 응애
 date: 2022-03-10 15:47:00 +0300
 description: 블로그(?) 만들었다. # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
