@@ -50,3 +50,112 @@ tags: [AI, TTS]
 
 
 !audio[ moon3 ]({{site.baseurl}}/assets/audio/tts/moon3.wav)
+
+
+
+##두번째 JTBC스튜디오 총괄사장,
+손석희
+
+![son]({{site.baseurl}}/assets/img/tts/tts-son.png)
+
+데이터는 19 hr 49 min 의 15,140개의 음성파일     
+
+>
+>순순이 어두운 밤을 받아들이지 마세요. 노인들이여. 저무는 하루에 소리치고 저항해요.
+>분노하고 분노해요 사라져가는 빛에 대해
+
+!audio[son1]({{site.baseurl}}/assets/audio/tts/son1.wav)
+
+>
+>저는 에반게리온 초호기 파일럿, 이카리 신지입니다!
+
+!audio[ son2 ]({{site.baseurl}}/assets/audio/tts/son2.wav)
+
+>
+>어쩌라고요
+
+
+!audio[ son3 ]({{site.baseurl}}/assets/audio/tts/son3.wav)
+
+>
+>아군이 당했습니다
+
+
+!audio[ son4 ]({{site.baseurl}}/assets/audio/tts/son4.wav)
+
+
+## 세번째최고의 파트너!, 원신의 페이몬.
+
+![paimon]({{site.baseurl}}/assets/img/tts/tts-paimon.png)
+
+데이터는 5hr 7min 의 4,884개의 음성파일
+
+>
+>비위 맞춰주는거 너무 힘들다.
+
+!audio[paimon1]({{site.baseurl}}/assets/audio/tts/paimon1.wav)
+
+>
+>여행자 레진이 지금 160개야.
+
+!audio[ paimon2 ]({{site.baseurl}}/assets/audio/tts/paimon2.wav)
+
+>
+>우리 바람의 신은 죽었어
+
+
+!audio[ paimon3 ]({{site.baseurl}}/assets/audio/tts/paimon3.wav)
+
+
+## kss데이터를 활용하여....
+
+![kss]({{site.baseurl}}/assets/img/tts/tts-kss2.png)
+
+전문 여성 성우 한 분이 Korean, Korean-English 사전 책 4권의 예문을 읽은 약 12시간 분량의 데이터셋
+데이터는 12 hr 51 min 의 12,853개개의 음성파일  
+
+>
+>죽으러 가는게 아니야 내가 정말 살아있는지 확인하러 가는거야
+
+!audio[kss1]({{site.baseurl}}/assets/audio/tts/kss1.wav)
+
+>
+>우리 모두 서로가 타인을 위해 사는 보완적 관계를 가진다.
+
+!audio[ kss2 ]({{site.baseurl}}/assets/audio/tts/kss2.wav)
+
+>
+>임마 어깨 펴라 좁아보인다.
+
+
+!audio[ kss3 ]({{site.baseurl}}/assets/audio/tts/kss3.wav)
+
+
+
+## 개....그?....
+
+
+>
+>우리의 주적은 간부다
+
+!audio[fun1]({{site.baseurl}}/assets/audio/tts/fun1.wav)
+
+>
+>하나의 유령이 떠돌고 있다.
+
+!audio[ fun2 ]({{site.baseurl}}/assets/audio/tts/fun2.wav)
+
+>
+>풍자는 영어로 sarcasm 이고 일본어로 風刺입니다.
+
+
+!audio[ fun3 ]({{site.baseurl}}/assets/audio/tts/fun3.wav)
+
+
+
+
+## ___개발
+## ___후기
+생각보다 퀄이 안나와서 아쉽고 후처리로 더 잡아볼 생각
+재미있었다.
+illustrated by: shunyk1101
