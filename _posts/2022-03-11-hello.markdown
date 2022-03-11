@@ -2,11 +2,12 @@
 layout: post
 title: 🚽=변기_______________________
 date: 2021-03-10 00:00:00 +0300
-description: 웹사이트 만듦 # Add post description (optional)
-img:  # Add image post (optional)
+description: 메타 홍보 만화 # Add post description (optional)
+img: META-COMICS/1.png  # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Diary]
+tags: [School, Meta]
 ---
+
 
 ![profile]({{site.baseurl}}/assets/img/profile.jpg)
 
