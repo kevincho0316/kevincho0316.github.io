@@ -2,8 +2,8 @@
 layout: post
 title: 📦차세대 택배 운송업에 대한 고찰과 해결방안
 date: 2022-03-12 00:00:00 +0300
-description: 차세대 택배에개해 메트로큐브라는 재안을 제시합니다. # Add post description (optional)
-img:  # Add image post (optional)
+description: 차세대 택배에개해 메트로큐브라는 해결법을 제안을 제시합니다. # Add post description (optional)
+img: /Metro-Cube/1.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [idea] 
 ---
@@ -11,7 +11,6 @@ tags: [idea]
 
 # Prj 메트로 큐브 📦
 
-![1]({{site.baseurl}}/assets/img/Metro-Cube/1.png)
 
 # 목적
 
