@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 타코트론2를 이용한 다중화자 tts 인공지능 개발
-date: 2021-08-06 00:00:00 +0300
+date: 2022-03-10 00:00:00 +0300
 description: 프로젝트를 진행하며 저는 발음기관을 모방에대한 연구와 함께 이런프로그램을 자동화 그리고 개인화 하고자 했습니다. # Add post description (optional)
 img: /tts/tts-logo.png # Add image post (optional)
 fig-caption: logo # Add figcaption (optional)
@@ -9,6 +9,7 @@ tags: [AI, TTS]
 ---
 
 # **프로젝트_口**
+2021-08-06 마친 프로젝트
 
 발음기관 모방 프로젝트로 궁극적으로 사람을 모방하고자 하는 의도를 가진 프로젝트입니다.
 사람을 모방함으로서 여러 근본적인 궁금증과 인류사의 진화등을 연구할수있을것으로 예상됩니다.
