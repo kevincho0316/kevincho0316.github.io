@@ -9,7 +9,6 @@ tags: [Diary]
 ---
 
 
-<!-- ![profile]({{site.baseurl}}/assets/img/profile.jpg) -->
 
 
 연구, 활동, 일기등이 올라오는 사이트,,,
